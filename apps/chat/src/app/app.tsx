@@ -32,7 +32,6 @@ export function App() {
           }
         />
       </Routes>
-      {/* END: routes */}
     </div>
   );
 }
